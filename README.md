@@ -20,7 +20,14 @@
 
 
 ### 其他</br>
-项目需要的 msi 安装文件以及依赖的 jar 包均放在了</br></br></br>
+#### 项目相关依赖和说明：
+MySQL版本： 8.0.33.0</br>
+Redis版本：5.0.14</br>
+Nacos Server版本：2.2.0</br>
+Elasticsearch + Kibana版本：7.17.27</br>
+Hotkey: v0.0.4</br>
+其余依赖可以在 pom.xml 中查看
+</br></br></br>
 
 ### 最后</br>
 项目的文档后续还将进一步完善，在项目里新增的功能也会尽快做出相关说明。
