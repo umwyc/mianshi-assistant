@@ -1,2 +1,2 @@
 # mianshi-assistant
-面试助手网站
+面试助手
